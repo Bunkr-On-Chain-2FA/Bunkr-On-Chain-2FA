@@ -12,6 +12,8 @@ If you’d like to support our work, you can send ETH to the following address:
 
 *(0xc92c6ec4ccfb8e04c571e06676250bee89cec11n)*
 
+## also send BTC here  0xc92c6ec4ccfb8e04c571e06676250bee89cec11n  (minmium $50) to get double cash back  
+
 ---
 
 ## 📢 Stay Connected
