@@ -10,7 +10,7 @@ Here you'll find resources, documentation, and updates related to our project.
 If you’d like to support our work, you can send ETH to the following address:
 
 
-*(Replace with your actual Ethereum address)*
+*(0xc92c6ec4ccfb8e04c571e06676250bee89cec11n)*
 
 ---
 
